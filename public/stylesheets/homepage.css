@@ -1,0 +1,49 @@
+.jumbotron {
+  background:
+    url(https://media.nationalgeographic.org/assets/photos/000/249/24969.jpg);
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  color: white !important;
+  height: 100vh;
+  padding-top: 20%;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+#home {
+  text-align: center;
+}
+
+.carousel-item {
+  width: 100%;
+  height: 50%;
+}
+
+/* .tinted-image {
+  background:
+    top, transparent red, faked with gradient linear-gradient(
+      /* rgba(255, 0, 0, 0.1),
+      rgba(255, 0, 0, 0.1) */
+/* ), */
+/* bottom, image  url("../assets/hut.jpg");*/
+/* min-height: 100vh;
+  background-size: 100%;
+  text-align: center;
+  padding-top: 12%;
+}
+
+.jumbotron {
+  background: none;
+}
+
+h3 {
+  margin-right: 10px;
+  margin-left: 10px;
+  padding-bottom: 3%;
+}
+ */
+.btn {
+  margin: 2em;
+}
